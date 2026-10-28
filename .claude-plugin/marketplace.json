@@ -1,0 +1,19 @@
+{
+  "name": "minto",
+  "owner": {
+    "name": "César Duarte"
+  },
+  "description": "Skill del Principio de la Pirámide de Barbara Minto, en español e inglés · Barbara Minto's Pyramid Principle skill, in Spanish and English",
+  "plugins": [
+    {
+      "name": "minto-es",
+      "source": "./plugins/minto-es",
+      "description": "Principio de la Pirámide de Barbara Minto, en español: aclara, estructura, revisa y define problemas."
+    },
+    {
+      "name": "minto-en",
+      "source": "./plugins/minto-en",
+      "description": "Barbara Minto's Pyramid Principle, in English: clarify, structure, review and define problems."
+    }
+  ]
+}

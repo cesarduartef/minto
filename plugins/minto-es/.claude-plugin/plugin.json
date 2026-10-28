@@ -1,0 +1,9 @@
+{
+  "name": "minto-es",
+  "displayName": "Minto (español)",
+  "description": "Skill del Principio de la Pirámide de Barbara Minto, en español: aclara qué quieres decir, estructura desde cero, revisa borradores y define problemas.",
+  "version": "1.0.0",
+  "author": { "name": "César Duarte", "url": "https://www.linkedin.com/in/cesarduartef" },
+  "license": "MIT",
+  "keywords": ["minto", "pyramid-principle", "writing", "spanish"]
+}

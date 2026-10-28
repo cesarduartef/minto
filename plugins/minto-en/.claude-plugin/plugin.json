@@ -1,0 +1,9 @@
+{
+  "name": "minto-en",
+  "displayName": "Minto (English)",
+  "description": "Barbara Minto's Pyramid Principle skill, in English: clarify what you mean, structure from scratch, review drafts and define problems.",
+  "version": "1.0.0",
+  "author": { "name": "César Duarte", "url": "https://www.linkedin.com/in/cesarduartef" },
+  "license": "MIT",
+  "keywords": ["minto", "pyramid-principle", "writing"]
+}
